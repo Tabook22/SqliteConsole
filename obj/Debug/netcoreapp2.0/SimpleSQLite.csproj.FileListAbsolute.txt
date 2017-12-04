@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\obj\Debug\netcoreapp2.0\SimpleSQLite.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\obj\Debug\netcoreapp2.0\SimpleSQLite.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\obj\Debug\netcoreapp2.0\SimpleSQLite.AssemblyInfo.cs
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\bin\Debug\netcoreapp2.0\SimpleSQLite.deps.json
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\bin\Debug\netcoreapp2.0\SimpleSQLite.runtimeconfig.json
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\bin\Debug\netcoreapp2.0\SimpleSQLite.runtimeconfig.dev.json
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\bin\Debug\netcoreapp2.0\SimpleSQLite.dll
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\bin\Debug\netcoreapp2.0\SimpleSQLite.pdb
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\obj\Debug\netcoreapp2.0\SimpleSQLite.dll
+C:\Users\HP\Desktop\myWorks\ConsoleProjects\Pro04_SQLite2\simplesqlite\obj\Debug\netcoreapp2.0\SimpleSQLite.pdb
